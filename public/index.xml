@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://anotherwong.github.io/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anotherwong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://anotherwong.github.io/contacts/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/contacts/</guid>
+      <description>Contacting me If you want to contact me in any way, such as if you think the blog is so good that you want to reach out to me, here&amp;rsquo;s how.
+ MAIL  You really don&amp;rsquo;t need to know my email, but if you need it it is here   Site code Here&amp;rsquo;s the base code from this site. really nice, custom duotone syntax highlighting based on PrismJS mobile friendly layout  =================================================================== ============================FAMILY MART============================ =================================================================== | | ____ ____ /___________________\ | | | | |御田 ||うどん| ___________________ ________ | | | | |150¥||200¥ | | || | |_______| | | | | |____||_____| | || [] | |_______| | | | | | || [] | |_______| | | | | コンビニ | || [] | | ▭ ▣ | | | | | /ᐠ-ꞈ-ᐟ\ | || / \ | | | | | </description>
+    </item>
+    
+    <item>
+      <title>Howdy</title>
+      <link>https://anotherwong.github.io/post/hello/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/post/hello/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+ Fusce pharetra suscipit orci nec tempor.</description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://anotherwong.github.io/showcase/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://anotherwong.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/about/</guid>
+      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
+    </item>
+    
+  </channel>
+</rss>
