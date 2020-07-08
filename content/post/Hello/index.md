@@ -2,15 +2,12 @@
 showFullContent = true
 title = "First post!"
 date = "2020-07-06"
-[[resources]]
-  name = "Image"
-  src = "/content/post/images/img1.png"
 author = "Alex Wong"
 cover = "/img/img1.png"
 description = "a"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+So, I guess this is my little corner of the web.
 
 
 {{< image src="/img/img1.png" style="width:500px;height:500px;" >}}
