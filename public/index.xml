@@ -6,28 +6,30 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anotherwong.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First post!</title>
-      <link>https://anotherwong.github.io/post/post/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <title>How to fix an MZ-R55</title>
+      <link>https://anotherwong.github.io/how-to-fix-an-mz-r55/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anotherwong.github.io/post/post/</guid>
-      <description>So, I guess this is my little corner of the web. Like a vacation home, I want a place away from the main web that&amp;rsquo;s my own space. I STAKE MY GROUND HERE, AND ON THIS HILL I SHALL DIE! Hehe, I just wanted to say that. Anyway, here. Have a picture of Makoto from Princess Connect. Credit goes to タチバナ for the picture- subscribe to them if you have a pixiv account!</description>
+      <guid>https://anotherwong.github.io/how-to-fix-an-mz-r55/</guid>
+      <description>I fixed a minidisc player&amp;hellip;kinda? I got a minidisc player/recorder from my grandma&amp;rsquo;s friend in 2017, an MZ-R55 with a low battery error. Basically, it didn&amp;rsquo;t work, no matter how much you charged the gumstick battery. Three years later, I got it working!
+    The video is not mine, but basically just demonstrates the state that I found myself at around 7 pm.
+ MZ-R55 manual
+Sed a leo id risus venenatis vulputate non quis nulla.</description>
     </item>
     
     <item>
-      <title>How to fix an MZ-R55</title>
-      <link>https://anotherwong.github.io/post/post1/</link>
+      <title>First post!</title>
+      <link>https://anotherwong.github.io/first-post/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anotherwong.github.io/post/post1/</guid>
-      <description>I fixed a minidisc player&amp;hellip;kinda? I got a minidisc player/recorder from my grandma&amp;rsquo;s friend in 2017, an MZ-R55 with a low battery error. Basically, it didn&amp;rsquo;t work, no matter how much you charged the gumstick battery. Three years later, I got it working!
-    Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at.</description>
+      <guid>https://anotherwong.github.io/first-post/</guid>
+      <description>So, I guess this is my little corner of the web. Like a vacation home, I want a place away from the main web that&amp;rsquo;s my own space. I STAKE MY GROUND HERE, AND ON THIS HILL I SHALL DIE! Hehe, I just wanted to say that. Anyway, here. Have a picture of Makoto from Princess Connect. Credit goes to タチバナ for the picture- subscribe to them if you have a pixiv account!</description>
     </item>
     
     <item>

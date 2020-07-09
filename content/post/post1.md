@@ -1,7 +1,7 @@
 +++
 showFullContent = true
 title = "How to fix an MZ-R55"
-date = "2020-07-06"
+date = "2020-07-09"
 author = "Alex Wong"
 cover = "/img/img2.jpg"
 description = "Minidiscs"
@@ -9,9 +9,11 @@ tags = ['old tech', 'japan', 'junk']
 +++
 I fixed a minidisc player...kinda? I got a minidisc player/recorder from my grandma's friend in 2017, an MZ-R55 with a low battery error. Basically, it didn't work, no matter how much you charged the gumstick battery. Three years later, I got it working!
 
-{{< image src="/img/img2.jpg" style="width:500px;height:500px;" >}}
-{{< youtube https://www.youtube.com/watch?v=xQl8Aco3SAg >}}
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
+{{< image src="/img/img2.jpg" style="width:700px;height:500px;" >}}
+{{< youtube xQl8Aco3SAg >}}
+> The video is not mine, but basically just demonstrates the state that I found myself at around 7 pm.
+
+[MZ-R55 manual](https://anotherwong.github.io/mzr55.pdf)
 
 Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.
 
