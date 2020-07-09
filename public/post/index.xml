@@ -13,12 +13,21 @@
     
     <item>
       <title>First post!</title>
-      <link>https://anotherwong.github.io/post/hello/</link>
+      <link>https://anotherwong.github.io/post/post/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anotherwong.github.io/post/hello/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-    Fusce pharetra suscipit orci nec tempor.</description>
+      <guid>https://anotherwong.github.io/post/post/</guid>
+      <description>So, I guess this is my little corner of the web. Like a vacation home, I want a place away from the main web that&amp;rsquo;s my own space. I STAKE MY GROUND HERE, AND ON THIS HILL I SHALL DIE! Hehe, I just wanted to say that. Anyway, here. Have a picture of Makoto from Princess Connect. Credit goes to タチバナ for the picture- subscribe to them if you have a pixiv account!</description>
+    </item>
+    
+    <item>
+      <title>How to fix an MZ-R55</title>
+      <link>https://anotherwong.github.io/post/post1/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/post/post1/</guid>
+      <description>I fixed a minidisc player&amp;hellip;kinda? I got a minidisc player/recorder from my grandma&amp;rsquo;s friend in 2017, an MZ-R55 with a low battery error. Basically, it didn&amp;rsquo;t work, no matter how much you charged the gumstick battery. Three years later, I got it working!
+    Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at.</description>
     </item>
     
   </channel>

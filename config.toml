@@ -9,6 +9,10 @@ paginate = 5
   showMenuItems = 5
   fullWidthTheme = false
   centerTheme = false
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 
 [languages]

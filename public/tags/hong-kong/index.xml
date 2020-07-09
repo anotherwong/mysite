@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Kong on Terminal</title>
+    <link>https://anotherwong.github.io/tags/hong-kong/</link>
+    <description>Recent content in Hong Kong on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://anotherwong.github.io/tags/hong-kong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post!</title>
+      <link>https://anotherwong.github.io/post/post/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotherwong.github.io/post/post/</guid>
+      <description>So, I guess this is my little corner of the web. Like a vacation home, I want a place away from the main web that&amp;rsquo;s my own space. I STAKE MY GROUND HERE, AND ON THIS HILL I SHALL DIE! Hehe, I just wanted to say that. Anyway, here. Have a picture of Makoto from Princess Connect. Credit goes to タチバナ for the picture- subscribe to them if you have a pixiv account!</description>
+    </item>
+    
+  </channel>
+</rss>
