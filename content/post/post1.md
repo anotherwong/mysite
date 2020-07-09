@@ -5,7 +5,7 @@ date = "2020-07-06"
 author = "Alex Wong"
 cover = "/img/img2.jpg"
 description = "Minidiscs"
-tags = ['Old tech', 'Japan', 'junk']
+tags = ['old tech', 'japan', 'junk']
 +++
 I fixed a minidisc player...kinda? I got a minidisc player/recorder from my grandma's friend in 2017, an MZ-R55 with a low battery error. Basically, it didn't work, no matter how much you charged the gumstick battery. Three years later, I got it working!
 
