@@ -46,3 +46,4 @@ paginate = 5
         identifier = "contacts"
         name = "Contacts"
         url = "/contacts"
+        

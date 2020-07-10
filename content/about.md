@@ -6,17 +6,15 @@ author = "Alex"
 
 # Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Hi! I'm a hobbyist, tinkerer, god-awful artist and computer enthusiast who has no idea how they work but gets results. My biggest personality trait is my open presence, but my second biggest is looking confident even if i'm not.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
+Some of the stuff I have achieved:
 - **Head student** I've become the Deputy Head Boy of VSA. This feels really good. REALLY GOOD.
 - [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
 - **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
 - mobile friendly layout
+- Credit for the Terminal theme goes to [**Radek**](https://github.com/panr/hugo-theme-terminal) for the cool theme.
 
-So, there you have it... enjoy!
+Contacts:
+[**Pixiv**]
+Enjoy!
