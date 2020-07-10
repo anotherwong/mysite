@@ -5,7 +5,7 @@ paginate = 5
 
 [params]
   contentTypeName = "post"
-  themeColor = "green"
+  themeColor = "turquoise"
   showMenuItems = 5
   fullWidthTheme = false
   centerTheme = false
@@ -46,4 +46,3 @@ paginate = 5
         identifier = "contacts"
         name = "Contacts"
         url = "/contacts"
-        
